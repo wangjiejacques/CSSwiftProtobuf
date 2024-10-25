@@ -25,7 +25,7 @@ let package = Package(
     name: "CSSwiftProtobuf",
     platforms: [
         .macOS(.v10_14),
-        .iOS(.v13),
+        .iOS(.v12),
         .watchOS(.v5),
         .tvOS(.v13),
     ],
